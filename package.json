@@ -1,0 +1,18 @@
+{
+  "name": "simple-ws-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.0.1",
+    "drachtio-fsmrf": "^1.2.8",
+    "drachtio-srf": "^4.4.2",
+    "minimist": "^1.2.0",
+    "ws": "^6.1.2"
+  }
+}
